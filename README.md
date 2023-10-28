@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Hematopoese/capsula-do-tempo)
+![GitHub top language](https://img.shields.io/github/languages/top/Hematopoese/capsula-do-tempo)
+![GitHub language count](https://img.shields.io/github/languages/count/Hematopoese/capsula-do-tempo)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Hematopoese/capsula-do-tempo)
+
 <p align="center">
   <img src=".github/Thumbnail.png" alt="Demonstração do projeto" width="100%"/>
 </p>
